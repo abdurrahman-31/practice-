@@ -3,4 +3,5 @@ and push git source code to github
 2 now im edit through github gui
 3 another change in git local repo
 
-4 im clone the github url to mobaxteam ubuntu linux now i push the file to github
+4 im clone the github url to mobaxterm ubuntu linux now i push the file to github
+5 github to motaxterm
