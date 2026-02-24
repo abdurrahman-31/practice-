@@ -1,2 +1,14 @@
 abdur rahman
 learning DevOps 
+
+motaxterm to github procedure
+ first
+ apt install git 
+ git clone url
+ ls
+ edit file 
+ git add --a
+ git commit
+ configure  developer setting  general repo token then 
+ git push 
+ for password paste token  
