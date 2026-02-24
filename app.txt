@@ -1,4 +1,6 @@
-learning devops 
+1 learning devops 
 and push git source code to github
-now im edit through github gui
-another change in git local repo
+2 now im edit through github gui
+3 another change in git local repo
+
+4 im clone the github url to mobaxteam ubuntu linux now i push the file to github
