@@ -1,2 +1,2 @@
 23.02.2026 
-praticing git and github 
+practicing git and github 
